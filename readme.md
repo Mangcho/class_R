@@ -1,4 +1,4 @@
-![Gachon university] (http://www.gachon.ac.kr/images/common/h1_logo.png)
+![Gachon university](http://www.gachon.ac.kr/images/common/h1_logo.png)
 
 #### Probability and Statistics class for Sophomore 1st semester
 
