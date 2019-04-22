@@ -6,3 +6,5 @@
 
 1. 123p 분석 도전   [[코드 보기]](https://github.com/Mangcho/class_R/blob/master/code/r_homework_123p.R)
 2. 133p 혼자서 해보기   [[코드 보기]](https://github.com/Mangcho/class_R/blob/master/code/R_133p.R)
+
+4. 141p 혼자서 해보기 [[코드보기]](https://github.com/Mangcho/class_R/blob/master/code/r_141p.R)
