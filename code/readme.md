@@ -10,3 +10,4 @@
 4. 141p 혼자서 해보기 [[코드보기]](https://github.com/Mangcho/class_R/blob/master/code/r_141p.R)
 5. 144p 혼자서 해보기 [[코드 보기]](https://github.com/Mangcho/class_R/blob/master/code/r_144p.R)
 6. 150p 혼자서 해보기 [[코드 보기]](https://github.com/Mangcho/class_R/blob/master/code/r_150p.R)
+7. 157p 혼자서 해보기 [[코드 보기]](https://github.com/Mangcho/class_R/blob/master/code/r_157p.R)
