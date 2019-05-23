@@ -14,3 +14,4 @@
 8. 160p 분석 도전 [[코드 보기]](https://github.com/Mangcho/class_R/blob/master/code/r_160p.R)
 9. 170p 혼자서 해보기 [[코드 보기]](https://github.com/Mangcho/class_R/blob/master/code/r_170p.R)
 10. 178p 혼자서 해보기 [[코드 보기]](https://github.com/Mangcho/class_R/blob/master/code/r_178p.R)
+11. 188p 혼자서 해보기 [[코드 보기]](https://github.com/Mangcho/class_R/blob/master/code/r_188p.R)
